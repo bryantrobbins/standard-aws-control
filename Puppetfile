@@ -1,5 +1,3 @@
-moduledir '/etc/puppet/modules'
-
 mod 'puppetlabs/ntp', '4.1.0'
 mod 'puppetlabs/stdlib'
 mod 'nanliu/staging'
